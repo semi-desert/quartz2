@@ -8,7 +8,7 @@ created: "2026-09-24"
 updated: "2026-09-24"
 ---
 
-上级：[[leninism|列宁主义]]　相关：[[marxism|马克思主义]]
+上级：[[leninism|列宁主义]]　相关：[[marxism|马克思主义]]、[[politics_and_policy|政治与政策]]
 
 # 研究问题
 
