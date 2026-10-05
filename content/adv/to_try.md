@@ -5,7 +5,7 @@ tags:
   - research
   - project
 created: "2026-10-05"
-updated: "2026-10-05"
+updated: "2026-10-06"
 ---
 
 上级：[[my_research|My Research]]　相关：[[os_mcu|OS - MCU]]、[[ai_learning_method|AI 辅助学习方法]]
@@ -55,6 +55,11 @@ updated: "2026-10-05"
 	- 文件名即状态（`N-slug.ext`），扫目录就知道进度，不另维护状态表。
 	- 给世界模型的文字描述里也要删掉已拿走的物体（文字空场景），否则会长回来。
 - 地址：https://github.com/neilsonnn/image-blaster
+- 对导演台的思考（2026-10-06，详细版在 `C://src//dfcine-director//docs//research//image-blaster-worldlabs-2026-10-06.md`）
+	- 导演台的白模正好可以当 Marble 的 Chisel 输入（粗布局 + 文字风格 → 写实世界，布局不变）。
+	- 两边互补：image-blaster 环境好看，但物体只排成网格、没有位置估计；导演台布局精确，但外观粗。
+	- 方向：加一个「布景层」，用 Spark 显示静态泼溅背景，白模、人物、机位照常在前面编辑；ScenePlan 仍是唯一数据源。
+	- 下一步：做 1 天对齐实验，费用约 1—3 美元。白模渲全景 → ComfyUI 风格化 → Marble Draft → 叠回白模，量尺度和地面偏差。
 
 # Opus 5.5 视频：301 条特效提示词开源
 
@@ -78,5 +83,5 @@ updated: "2026-10-05"
 # 待查
 
 - [ ] 淘宝 ESP32-C3 SuperMini 价格；路由器能否给局域网下发自定义 DNS
-- [ ] World Labs 被收购后 Marble API 是否继续开放
+- [ ] World Labs 被收购后 Marble API 是否继续开放；Chisel 布局、全景图能否走 API
 - [ ] 挑 1 条 Opus 视频提示词，用 HyperFrames 做一个 15 秒奥数动画试试
