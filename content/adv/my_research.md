@@ -4,7 +4,7 @@ title: My Research
 tags:
   - research
 created: "2026-09-24"
-updated: "2026-09-27"
+updated: "2026-10-05"
 ---
 
 平时捣鼓、研究、阅读的主题总入口。每个主题一篇笔记，按「研究问题 → 要点 → 我的理解 → 待查 → 资料」组织。读书笔记见 [[my_reading|My Reading]]。
@@ -22,6 +22,8 @@ updated: "2026-09-27"
 | [[domestic_policy_2025_2026\|2025—2026 国内政策走向]] | 在研 | 2026-09-27 |
 | [[international_situation_2026\|2026 世界形势]] | 在研 | 2026-09-27 |
 | [[education_policy_2025_2026\|2025—2026 教育政策]] | 在研 | 2026-09-27 |
+| [[ai_learning_method\|AI 辅助学习方法]] | 在用 | 2026-10-05 |
+| [[to_try\|想实践清单]] | 想动手 | 2026-10-05 |
 
 # 主题关系
 
@@ -35,6 +37,8 @@ updated: "2026-09-27"
 	- [[education_policy_2025_2026|2025—2026 教育政策]]（阅读、科学、人工智能进校园）
 - AI / 大模型
 	- [[minimind|MiniMind]]（从零训练小语言模型，想动手）
+	- [[ai_learning_method|AI 辅助学习方法]]（六步学习法、ASD-STE100 简洁输出）
+- [[to_try|想实践清单]]（ESP32 广告拦截器、image-blaster、Opus 视频提示词）
 
 # 暂停 / 已结
 
