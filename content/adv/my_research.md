@@ -23,6 +23,7 @@ updated: "2026-10-05"
 | [[international_situation_2026\|2026 世界形势]] | 在研 | 2026-09-27 |
 | [[education_policy_2025_2026\|2025—2026 教育政策]] | 在研 | 2026-09-27 |
 | [[ai_learning_method\|AI 辅助学习方法]] | 在用 | 2026-10-05 |
+| [[agent_principles\|Agent 与 AI 原理]] | 在学 | 2026-10-05 |
 | [[to_try\|想实践清单]] | 想动手 | 2026-10-05 |
 
 # 主题关系
@@ -37,6 +38,7 @@ updated: "2026-10-05"
 	- [[education_policy_2025_2026|2025—2026 教育政策]]（阅读、科学、人工智能进校园）
 - AI / 大模型
 	- [[minimind|MiniMind]]（从零训练小语言模型，想动手）
+	- [[agent_principles|Agent 与 AI 原理]]（LLM 训练、工具调用循环、MCP；20 小时计划）
 	- [[ai_learning_method|AI 辅助学习方法]]（六步学习法、ASD-STE100 简洁输出）
 - [[to_try|想实践清单]]（ESP32 广告拦截器、image-blaster、Opus 视频提示词）
 
