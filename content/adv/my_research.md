@@ -4,7 +4,7 @@ title: My Research
 tags:
   - research
 created: "2026-09-24"
-updated: "2026-10-05"
+updated: "2026-10-06"
 ---
 
 平时捣鼓、研究、阅读的主题总入口。每个主题一篇笔记，按「研究问题 → 要点 → 我的理解 → 待查 → 资料」组织。读书笔记见 [[my_reading|My Reading]]。
@@ -25,6 +25,7 @@ updated: "2026-10-05"
 | [[ai_learning_method\|AI 辅助学习方法]] | 在用 | 2026-10-05 |
 | [[agent_principles\|Agent 与 AI 原理]] | 在学 | 2026-10-05 |
 | [[to_try\|想实践清单]] | 想动手 | 2026-10-05 |
+| [[robotics\|机器人 / 无人机 / 扫地机器人]] | 想动手 | 2026-10-06 |
 
 # 主题关系
 
@@ -41,6 +42,7 @@ updated: "2026-10-05"
 	- [[agent_principles|Agent 与 AI 原理]]（LLM 训练、工具调用循环、MCP；20 小时计划）
 	- [[ai_learning_method|AI 辅助学习方法]]（六步学习法、ASD-STE100 简洁输出）
 - [[to_try|想实践清单]]（ESP32 广告拦截器、image-blaster、Opus 视频提示词）
+- [[robotics|机器人 / 无人机 / 扫地机器人]]（Microduck、自组扫地机；已有舵机与编码器电机，缺计算板）
 
 # 暂停 / 已结
 
