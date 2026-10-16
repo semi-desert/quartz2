@@ -27,6 +27,7 @@ updated: "2026-10-16"
 | [[to_try\|想实践清单]] | 想动手 | 2026-10-05 |
 | [[robotics\|机器人 / 无人机 / 扫地机器人]] | 想动手 | 2026-10-06 |
 | [[rea_reverse_engineering\|REA：AI 逆向工程 MCP]] | 已读源码 | 2026-10-16 |
+| [[musk_ai_timeline_2026\|马斯克 AI 时间表核查]] | 已核查 | 2026-10-16 |
 
 # 主题关系
 
@@ -43,6 +44,7 @@ updated: "2026-10-16"
 	- [[agent_principles|Agent 与 AI 原理]]（LLM 训练、工具调用循环、MCP；20 小时计划）
 	- [[ai_learning_method|AI 辅助学习方法]]（六步学习法、ASD-STE100 简洁输出）
 	- [[rea_reverse_engineering|REA：AI 逆向工程 MCP]]（把 Ghidra/IDA/JADX 等包成 MCP 工具，带证据输出）
+	- [[musk_ai_timeline_2026|马斯克 AI 时间表核查]]（信息图《马斯克眼中的未来十年》逐条核对，方向可参考，年份是乐观上限）
 - [[to_try|想实践清单]]（ESP32 广告拦截器、image-blaster、Opus 视频提示词）
 - [[robotics|机器人 / 无人机 / 扫地机器人]]（Microduck、自组扫地机；已有舵机与编码器电机，缺计算板）
 
