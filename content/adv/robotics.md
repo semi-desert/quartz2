@@ -7,10 +7,10 @@ tags:
   - hardware
   - todo
 created: "2026-10-06"
-updated: "2026-10-06"
+updated: "2026-10-16"
 ---
 
-上级：[[my_research|My Research]]　相关：[[to_try|想实践清单]]、[[os_mcu|OS - MCU]]
+上级：[[my_research|My Research]]　相关：[[to_try|想实践清单]]、[[os_mcu|OS - MCU]]、[[tesla_roadster_2026|特斯拉 Roadster 2]]（入门路线：四轴 → 自平衡车 → 模型火箭）
 
 状态：**想动手**。手上已有执行器（舵机、编码器电机、风机），缺核心计算板。
 
