@@ -17,6 +17,18 @@ dg-home: true
 
 # Entrance 2
 
+### 2026-09-24 - 模拟飞行硬件中控台 Flight Deck (MSFS)
+
+<img src="./images/flight-deck-console.jpg" alt="flight-deck" width=600/>
+
+给微软模拟飞行（MSFS）做的一整套实体中控台。外壳是自己用 build123d 参数化建模、3D 打印的六块模块，上面装了推力杆、旋钮、拨动开关、编码器、小屏和点阵灯，ESP32 读取这些控件，再通过 PC 端的 flight-bridge（SimConnect）实时驱动飞机。配套还有树莓派触屏上的「操控 / 航图 / ATC」三页，ATC 页可以把 VATSIM 管制语音实时转成文字。主力机型是 FlyByWire A320 和 A380。从一张布局草图到能真正拧旋钮改航向，第一次把软件、电路和结构完整串了起来。
+
+### 2026-09-22 - 树莓派桌面信息屏 RPi Kiosk Panel
+
+<img src="./images/rpi-kiosk-panel.jpg" alt="rpi-kiosk-panel" width=600/>
+
+一块常亮在桌上的小屏：树莓派 4B + Alpine Linux，Wayland 原生、GPU 加速、SD 卡零写入，外壳同样是自己打印的。平时显示工作站的 CPU / GPU / 显存 / 内存 / 网络 / 磁盘实时曲线，也能切到每日壁纸、大号时钟，或者摄像头自拍页；显示哪一页由局域网里的后台网页远程控制。它后来也成了飞行中控台的触屏底座。
+
 ### 2024-11-10 - 简易感应小灯+远程电脑开机 Infrared Sensor Lamp (light) 
 
 <img src="https://cdn.jsdelivr.net/gh/aaronmack/picx-images-hosting@master/e/image.7egwnl7nlq.webp" alt="image" width=600/>
