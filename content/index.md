@@ -67,14 +67,14 @@ SD绘画，这是一个Krita的开源插件(https://github.com/Acly/krita-ai-dif
 
 ### 2023-12-10 - Procedural Generation
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.5me22rn6qnk0.webp" alt="image" width="600" height="600" />
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.5me22rn6qnk0.webp" alt="image" width="600" />
 
 程序化生成，路面工具，Painting工具，建筑工具等等。
 ### 2023-10-29 - Openpype OpenSource Pipeline
 
 [[cg_pipeline|OpenPype Pipeline]]
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.5psn8dc994c0.webp" alt="image" width="600" height="600" />
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.5psn8dc994c0.webp" alt="image" width="600" />
 
 开源的Pipeline工具搭建，可以本地部署，支持非常多的DCC软件。再结合cgwire项目管理，可以很好的规范项目制作。
 
@@ -90,7 +90,7 @@ SD绘画，这是一个Krita的开源插件(https://github.com/Acly/krita-ai-dif
 
 [Update Triangulate Process by aaronmack · Pull Request 5205 · assimp/assimp · GitHub](https://github.com/assimp/assimp/pull/5205)
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.3fe0ua575qa0.png" alt="image" width="600" height="600" />
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.3fe0ua575qa0.png" alt="image" width="600" />
 
 第一个往开源仓库贡献的PR，是在为自己写的一个小玩意中的多边形模型
 三角化时，参考了assimp，发现了有额外一种情况并没有考虑到。遂补足了这个情况。
@@ -129,7 +129,7 @@ SD绘画，这是一个Krita的开源插件(https://github.com/Acly/krita-ai-dif
 
 [W3.CSS Template](https://aaronli.w3spaces.com/)
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.4xajvc8o9940.png" alt="image" width="600" height="600" />
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.4xajvc8o9940.png" alt="image" width="600" />
 
 在W3C上入门学习了HTML/CSS/JS这些网页端基本的知识。
 
@@ -138,18 +138,18 @@ SD绘画，这是一个Krita的开源插件(https://github.com/Acly/krita-ai-dif
 [【图形】 阿龙教你学图形-第一部分\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1NR4y1c78Z/)
 
 <img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.5h5w59in5uk0.webp" alt="image" 
-width="600" height="600" />
+width="600" />
 自己录制的第一套公开的课程，是一个入门级的小课程，里面讲了一些非常基础的关于渲染的知识。
 
 ### 2021-12-29 - Figma Design
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/aaronmack.github.io@master/assets/img/life/Figma-design.png" alt="image" width="600" height="600" />
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/aaronmack.github.io@master/assets/img/life/Figma-design.png" alt="image" width="600" />
 
 我是小小设计师。还记得当时初次接触设计，尽浑然不知疲惫，连续不停的看完了教程。后面设计了图标，软件界面。
 
 ### 2021-10-11 - Geometry Intersection Detection
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.6l3kddi3to80.webp" alt="image" width="600" height="600"/>
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.6l3kddi3to80.webp" alt="image" width="600"/>
 
 用于检测模型穿插，主要是写VEX来处理逻辑，然后通过Houdini Engine在Maya中使用。红色的点代表两个或多个模型之间穿插了，可以用于检测类似在K角色动画时，一组模型之间是否穿插（像穿在角色身上的衣服，内层的衣服是否穿出了外层的衣服）。当时的自己还是很激动的。
 
@@ -157,7 +157,7 @@ width="600" height="600" />
 
 [[b_spline|B Spline]] [[bezier_curve|Bezier Curve]]
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.1e1plkqf0gu8.webp" alt="image" width="600" height="600" />
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.1e1plkqf0gu8.webp" alt="image" width="600" />
 
 在做一个参数面板时，需要用到与Houdini中一致的Ramp参数，其中包括了贝塞尔曲线与B样条线。不得不佩服数学的奇妙。
 
@@ -165,7 +165,7 @@ width="600" height="600" />
 
 [GitHub - aaronmack/demo-learning-project](https://github.com/aaronmack/demo-learning-project)
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.26c4h2s44u68.webp" alt="image" width="600" height="600"/>
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.26c4h2s44u68.webp" alt="image" width="600"/>
 
 学了虚幻引擎Niagara粒子系统，做了一些非常小的粒子效果。最早当初是使用的UE的级联粒子系统，刚开始学习时还有点不太适应。后面才渐渐感受到新系统的好用之处。还学习跟着做了一些虚幻的材质。不得不说，虚幻的材质编辑器真的好用。
 
@@ -173,13 +173,13 @@ width="600" height="600" />
 
 [GitHub - aaronmack/demo-unreal-indie](https://github.com/aaronmack/demo-unreal-indie)
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/demo-unreal-indie@master/Screenshots/L_ConceptualMaster.gif?raw=true" alt="image" width="600" height="600" />
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/demo-unreal-indie@master/Screenshots/L_ConceptualMaster.gif?raw=true" alt="image" width="600" />
 
 在公司研究UE虚幻引擎，包含了材质，Sequence，地形等等，将这些知识结合起来用引擎做了一个简短的画面。
 
 ### 2020-10-08 - AI Tutorial
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.7cgayikwg8e8.webp" alt="image" width="600" height="600"/>
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.7cgayikwg8e8.webp" alt="image" width="600"/>
 
 最早那个时候学习了关于人工智能的教程，想了解其背后的原理，而不单单只是去应用，当时更早些时日，一同学习了Python编程和网络相关的知识。
 
@@ -187,7 +187,7 @@ width="600" height="600" />
 
 [Houdini Terrain Instance - YouTube](https://www.youtube.com/watch?v=N8E4muRzrrw)
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.7kz497mepcs0.webp" alt="image" width="600" height="600"/>
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.7kz497mepcs0.webp" alt="image" width="600"/>
 
 程序化地形，在Houdini中制作地形与散布，再使用HoudiniEngine在UE生成地形数据。以及Instance实例。这是一个非常简单的演示。
 
@@ -195,7 +195,7 @@ width="600" height="600" />
 
 [GitHub - aaronmack/Develop\_ExportAlembic](https://github.com/aaronmack/Develop_ExportAlembic)
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.14du5qsjniak.png" alt="image" width="600" height="600" />
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.14du5qsjniak.png" alt="image" width="600" />
 
 写的第一个TD工具，学完Python的Qt不久后写了这个工具，可以从Maya中导出Alembic文件到其它的DCC中。
 
@@ -203,7 +203,7 @@ width="600" height="600" />
 
 [Houdini UE Destruction on Vimeo](https://vimeo.com/337720335)
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.4cufnudarvq0.webp" alt="image" width="600" height="600" />
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.4cufnudarvq0.webp" alt="image" width="600" />
 
 将UE中物体导出到外面，在Houdini中做破碎解算，再导入进去，同时还有使用Max的插件Rayfire做破碎。那时用的背景音乐可真的绝。
 
@@ -211,7 +211,7 @@ width="600" height="600" />
 
 [HoudiniStudy\_StevenParticles Ⅳ on Vimeo](https://vimeo.com/339268502)
 
-<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.5zjdgvftllg0.webp" alt="image"  width="600" height="600" />
+<img src="https://cdn.jsdelivr.net/gh/aaronmack/image-hosting@master/e/image.5zjdgvftllg0.webp" alt="image"  width="600" />
 
 学习了Steven的教程，花瓣飘落的效果，以及项目中需要用到的群集效果。那是一个时代了。最初进入一家动画公司，做着剧集中的效果，那个时候起就喜欢捣鼓一些代码，还有USD~
 
