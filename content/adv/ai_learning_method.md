@@ -6,10 +6,10 @@ tags:
   - ai
   - learning
 created: "2026-10-05"
-updated: "2026-10-05"
+updated: "2026-10-26"
 ---
 
-上级：[[my_research|My Research]]　相关：[[to_try|想实践清单]]、[[minimind|MiniMind]]
+上级：[[my_research|My Research]]　相关：[[to_try|想实践清单]]、[[minimind|MiniMind]]、[[ai_dependence_motivation|依赖 AI 与做事动力]]
 
 # 研究问题
 
