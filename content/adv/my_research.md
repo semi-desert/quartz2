@@ -4,7 +4,7 @@ title: My Research
 tags:
   - research
 created: "2026-09-24"
-updated: "2026-10-16"
+updated: "2026-11-19"
 ---
 
 平时捣鼓、研究、阅读的主题总入口。每个主题一篇笔记，按「研究问题 → 要点 → 我的理解 → 待查 → 资料」组织。读书笔记见 [[my_reading|My Reading]]。
@@ -30,6 +30,7 @@ updated: "2026-10-16"
 | [[musk_ai_timeline_2026\|马斯克 AI 时间表核查]] | 已核查 | 2026-10-16 |
 | [[tesla_roadster_2026\|特斯拉 Roadster 2：吸附与冷气推进]] | 已了解原理 | 2026-10-16 |
 | [[ai_dependence_motivation\|依赖 AI 与做事动力]] | 已整理 | 2026-10-26 |
+| [[goodcase_ai\|GoodCase.ai - AI 提示语案例复测站]] | 已核查 | 2026-11-19 |
 
 # 主题关系
 
@@ -48,6 +49,7 @@ updated: "2026-10-16"
 	- [[rea_reverse_engineering|REA：AI 逆向工程 MCP]]（把 Ghidra/IDA/JADX 等包成 MCP 工具，带证据输出）
 	- [[musk_ai_timeline_2026|马斯克 AI 时间表核查]]（信息图《马斯克眼中的未来十年》逐条核对，方向可参考，年份是乐观上限）
 	- [[ai_dependence_motivation|依赖 AI 与做事动力]]（COLM 2026：用 AI 要答案 10 分钟，撤掉后坚持性下降；先想后问、要提示不要答案）
+	- [[goodcase_ai|GoodCase.ai]]（提示语案例库用「换模型重跑」验伪；可迁移的是证据闸门与相机缺陷、接触点等写法）
 - [[to_try|想实践清单]]（ESP32 广告拦截器、image-blaster、Opus 视频提示词）
 - [[robotics|机器人 / 无人机 / 扫地机器人]]（Microduck、自组扫地机；已有舵机与编码器电机，缺计算板）
 	- [[tesla_roadster_2026|特斯拉 Roadster 2：吸附与冷气推进]]（倒挂靠气压差，腾空靠反冲；火箭/无人机/机器人入门路线）
